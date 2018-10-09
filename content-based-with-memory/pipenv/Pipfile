@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+gensim = "*"
+nltk = "*"
+datetime = "*"
+shapely = "*"
+argparse = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3.6"

@@ -1,0 +1,6 @@
+DateTime>=4.2
+numpy>=1.15.1
+pandas>=0.23.4
+DateTime>=4.2
+tensorflow>=1.10.0
+keras>=2.2.2
